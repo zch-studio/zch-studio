@@ -1,3 +1,0 @@
-# Z Studio
-
-welcome
